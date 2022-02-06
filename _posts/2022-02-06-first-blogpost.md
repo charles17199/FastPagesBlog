@@ -7,7 +7,7 @@ title: My First Blog Post
 ---
 # Welcome
 
-## Basic setup
+## Welcome
 
 I created this blog as a demo to learn.\
 
